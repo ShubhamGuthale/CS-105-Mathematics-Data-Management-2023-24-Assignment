@@ -1,7 +1,7 @@
 # CS-105-Mathematics-Data-Management-2023-24-Assignment
 ASSIGNMENT -
 
-CS 105 Persistent Data Management 2023-24
+CS 105 Mathematics Data Management 2023-24
 InterCity Express Trains(IET) Database Assignment 
 
 Name - Guthale Shubham Vishnu
